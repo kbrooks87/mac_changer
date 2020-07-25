@@ -1,3 +1,7 @@
+"""This is to show how python 2 can be exploited for this project
+and why python 3 is better for security. when at interface input use
+wlan0; ls; to see the result"""
+
 import subprocess
 
 interface = raw_input("interface >")
